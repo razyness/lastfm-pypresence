@@ -1,0 +1,7 @@
+api_key = "Head to https://www.last.fm/api/account/create"
+username = "razyisntreal"
+client_id = "1082706936635592844"
+small_image_avatar = true
+button_text = "LAT.Fm {scrobbles} scrbles"
+button_url = "{profileurl}"
+is_running = false
